@@ -11,6 +11,8 @@ terraform {
     }
   }
 }
+# AMI ID - us-east-1: ami-0d016af584f4febe3
+# AMI ID - eu-west-1: ami-046da914e42bb0388
 provider "aws" {
   region = "us-east-1"
 }
