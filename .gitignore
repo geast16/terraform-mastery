@@ -43,3 +43,5 @@ proj01-s3-static-website/.terraform/providers/registry.terraform.io/hashicorp/ra
 08-input-vars-locals-outputs/.terraform/providers/registry.terraform.io/hashicorp/random/3.7.2/windows_amd64/LICENSE.txt
 08-input-vars-locals-outputs/.terraform/providers/registry.terraform.io/hashicorp/random/3.7.2/windows_amd64/terraform-provider-random_v3.7.2_x5.exe
 08-input-vars-locals-outputs/.terraform.lock.hcl
+08-input-vars-locals-outputs/terraform.tfstate
+08-input-vars-locals-outputs/terraform.tfstate.backup
