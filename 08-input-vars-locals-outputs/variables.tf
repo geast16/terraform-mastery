@@ -4,8 +4,8 @@ variable "ec2_instance_type" {
 
   # || = OR
   validation {
-    condition     = startswith(var.ec2_instance_type, "t3")
-    error_message = "Only supports t3 family"
+    condition     = contains(["t2.micro", "t3.micro"], var.ec2_instance_type)
+    error_message = "Only supports t2.micro and t3.micro"
   }
 }
 
