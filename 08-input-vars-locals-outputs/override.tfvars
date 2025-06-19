@@ -1,1 +1,3 @@
-ec2_instance_type = "t3.2xlarge"
+additional_tags = {
+  ValuesFrom = "override.tfvars"
+}
