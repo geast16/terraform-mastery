@@ -48,3 +48,8 @@ proj01-s3-static-website/.terraform/providers/registry.terraform.io/hashicorp/ra
 09-expressions/.terraform/providers/registry.terraform.io/hashicorp/aws/5.100.0/windows_amd64/LICENSE.txt
 09-expressions/.terraform/providers/registry.terraform.io/hashicorp/aws/5.100.0/windows_amd64/terraform-provider-aws_v5.100.0_x5.exe
 09-expressions/.terraform.lock.hcl
+11-multiple-resources/.terraform/providers/registry.terraform.io/hashicorp/aws/5.100.0/windows_amd64/LICENSE.txt
+11-multiple-resources/.terraform/providers/registry.terraform.io/hashicorp/aws/5.100.0/windows_amd64/terraform-provider-aws_v5.100.0_x5.exe
+11-multiple-resources/terraform.tfstate.backup
+11-multiple-resources/terraform.tfstate
+11-multiple-resources/.terraform.lock.hcl
