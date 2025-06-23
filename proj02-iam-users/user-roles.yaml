@@ -1,0 +1,13 @@
+# Overciew of the Schema
+# users = {
+#   username = string
+#   roles = (readonly | developer | admin | auditor) []
+#}[]
+
+users:
+- username: Tara
+  roles: [readonly, developer]
+- username: Lui
+  roles: [admin, auditor]
+- username: Juanya
+  roles: [readonly]
