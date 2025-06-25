@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"networking-tf-course","Source":"registry.terraform.io/geast16/networking-tf-course/aws","Version":"0.1.1","Dir":".terraform/modules/networking-tf-course"}]}
