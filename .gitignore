@@ -71,3 +71,15 @@ proj02-iam-users/.terraform.lock.hcl
 15-object-validation/.terraform/providers/registry.terraform.io/hashicorp/aws/5.100.0/windows_amd64/terraform-provider-aws_v5.100.0_x5.exe
 15-object-validation/.terraform/providers/registry.terraform.io/hashicorp/aws/5.100.0/windows_amd64/LICENSE.txt
 15-object-validation/terraform.tfstate
+16-state-manipulation/terraform.tfstate
+16-state-manipulation/terraform.tfstate.1750991765.backup
+16-state-manipulation/terraform.tfstate.1750991998.backup
+16-state-manipulation/terraform.tfstate.1750996730.backup
+16-state-manipulation/terraform.tfstate.backup
+16-state-manipulation/.terraform/modules/modules.json
+16-state-manipulation/.terraform/providers/registry.terraform.io/hashicorp/aws/5.100.0/windows_amd64/LICENSE.txt
+16-state-manipulation/.terraform/providers/registry.terraform.io/hashicorp/aws/5.100.0/windows_amd64/terraform-provider-aws_v5.100.0_x5.exe
+proj03-import-lambda/.terraform/providers/registry.terraform.io/hashicorp/aws/5.100.0/windows_amd64/terraform-provider-aws_v5.100.0_x5.exe
+proj03-import-lambda/.terraform/providers/registry.terraform.io/hashicorp/archive/2.7.1/windows_amd64/terraform-provider-archive_v2.7.1_x5.exe
+proj03-import-lambda/terraform.tfstate.backup
+proj03-import-lambda/terraform.tfstate
