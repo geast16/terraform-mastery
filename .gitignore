@@ -83,3 +83,9 @@ proj03-import-lambda/.terraform/providers/registry.terraform.io/hashicorp/aws/5.
 proj03-import-lambda/.terraform/providers/registry.terraform.io/hashicorp/archive/2.7.1/windows_amd64/terraform-provider-archive_v2.7.1_x5.exe
 proj03-import-lambda/terraform.tfstate.backup
 proj03-import-lambda/terraform.tfstate
+proj04-rds-module/terraform.tfstate
+proj04-rds-module/.terraform/modules/modules.json
+proj04-rds-module/.terraform/providers/registry.terraform.io/hashicorp/archive/2.7.1/windows_amd64/LICENSE.txt
+proj04-rds-module/.terraform/providers/registry.terraform.io/hashicorp/archive/2.7.1/windows_amd64/terraform-provider-archive_v2.7.1_x5.exe
+proj04-rds-module/.terraform/providers/registry.terraform.io/hashicorp/aws/5.100.0/windows_amd64/LICENSE.txt
+proj04-rds-module/.terraform/providers/registry.terraform.io/hashicorp/aws/5.100.0/windows_amd64/terraform-provider-aws_v5.100.0_x5.exe
